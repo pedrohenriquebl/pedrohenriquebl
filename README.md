@@ -18,6 +18,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Pedro-Magento" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg">
 
 </div>
+ 
+<div>   
+  <a href="https://instagram.com/pedrostyle" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pedruhbl@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-barcellos-lopes-997365bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 
 - 🌱 Aimming the backend world but for now im studying the basics and front.
