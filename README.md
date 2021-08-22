@@ -16,7 +16,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Magento" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg">  
-  <img align="left" alt="Pedro-Coding" height="160" width="160" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+  <img align="center" alt="Pedro-Coding" height="160" width="160" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 </div>
  
