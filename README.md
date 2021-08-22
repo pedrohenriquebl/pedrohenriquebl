@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pedrohenriquebl
+## - 👋 Hi, I’m Pedro Henrique
 
 <hr></hr>
 
