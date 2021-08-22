@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pedrohenriquebl 
+- 👋 <h2>Hi, I’m @pedrohenriquebl</h2
 
  <div>
   <a href="https://github.com/pedrohenriquebl">
