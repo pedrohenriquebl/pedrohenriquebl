@@ -1,4 +1,6 @@
- <h3>- 👋 Hi, I’m @pedrohenriquebl</h3>
+##👋 Hi, I’m @pedrohenriquebl
+
+<hr></hr>
 
  <div>
   <a href="https://github.com/pedrohenriquebl">
