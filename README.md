@@ -1,9 +1,9 @@
-- 👋 <h2>Hi, I’m @pedrohenriquebl</h2
+ <h3>- 👋 Hi, I’m @pedrohenriquebl</h3>
 
  <div>
   <a href="https://github.com/pedrohenriquebl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquebl&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquebl&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.a pp/api/top-langs/?username=pedrohenriquebl&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 
 
