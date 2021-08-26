@@ -27,7 +27,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 
 
 - 🌱 Aimming the backend world but for now im studying the basics and front.
-- 💞️ I’m looking to collaborate on any think that can help me get some xp and apply the studies.
+- 💞️ I’m looking to collaborate on any thing that can help me get some xp and apply the studies.
 - 📫 How to reach me pedruhbl@yahoo.com/ @pedrostyle Instagram.
 
 <!---
